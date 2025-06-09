@@ -161,5 +161,5 @@ MIT License — see the LICENSE file for details.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by itspodleeeee</sub>
+  <sub>Built by itspodleeeee🦆</sub>
 </div>
