@@ -70,6 +70,10 @@ python main.py
    - Specify a target username  
    - Watch the simulation and visual progress of automated attacks  
 
+   **Sample Brute Force Attack Progress:**
+
+   ![Brute Force Attack Progress](images/bruteforce_sample.png)
+
 3. **Exit** 🚪  
    - Quit the application  
 
@@ -161,5 +165,5 @@ MIT License — see the LICENSE file for details.
 ---
 
 <div align="center">
-  <sub>Built by itspodleeeee🦆</sub>
+  <sub>Built with ❤️ by itspodleeeee</sub>
 </div>
