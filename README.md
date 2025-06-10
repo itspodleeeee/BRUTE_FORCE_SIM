@@ -41,7 +41,6 @@ A Python-based simulator demonstrating brute force attacks on login systems and 
 - Python 3.6 or higher  
 - Dependencies (install via `pip install -r requirements.txt`):  
   - matplotlib  
-  - numpy  
 
 ---
 
