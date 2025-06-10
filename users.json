@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "failed_attempts": 3,
+        "last_attempt": 1749512310.4406815,
+        "locked_until": 1749512340.4406815
+    },
+    "user1": {
+        "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+        "failed_attempts": 0,
+        "last_attempt": 0,
+        "locked_until": 0
+    }
+}
